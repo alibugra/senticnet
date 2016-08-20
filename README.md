@@ -9,7 +9,7 @@ python senticnet-api.py -k happy
 ```
 ## About Senticnet
 
-- SenticNet is an initiative conceived at the MIT Media Laboratory in 2009 within an industrial Cooperative Awards in Science and Engineering (CASE) research project born from the collaboration between the Media Lab, the University of Stirling, and Sitekit Solutions Ltd.
+SenticNet is an initiative conceived at the MIT Media Laboratory in 2009 within an industrial Cooperative Awards in Science and Engineering (CASE) research project born from the collaboration between the Media Lab, the University of Stirling, and Sitekit Solutions Ltd.
 
 Since then, SenticNet has been further developed and applied for the design of emotion-aware intelligent applications in fields spanning from data mining to human-computer interaction.
 
