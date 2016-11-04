@@ -22,4 +22,5 @@ print(root_elements["pleasantness"]["#text"]) # pleasantness value
 print(root_elements["attention"]["#text"]) # attention value
 print(root_elements["sensitivity"]["#text"]) # sensitivity value
 print(root_elements["aptitude"]["#text"]) # aptitude value
-print(root_elements["polarity"]["#text"]) # polarity value
+print(root_elements["polarity"]["value"]["#text"]) # polarity value
+print(root_elements["polarity"]["intensity"]["#text"]) # polarity intensity
